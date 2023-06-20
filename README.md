@@ -7,4 +7,4 @@ A sample chapter (Chapter 3 - Quantum states) can be accessed [here](https://git
 
 Code to accompany the book will also be made available over summer 2023. 
 
-If you have any questions, or think you have found any mistakes, please [email paul.skrzypczyk@bristol.ac.uk](mailto:paul.skrzypczyk@bristol.ac.uk)
+If you have any questions, or think you have found any mistakes, please email [paul.skrzypczyk@bristol.ac.uk](mailto:paul.skrzypczyk@bristol.ac.uk)
