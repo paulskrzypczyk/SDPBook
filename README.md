@@ -1,5 +1,8 @@
-# SDPBook
-Code to accompany the book [Semidefinite Programming in Quantum Information Science](https://iopscience.iop.org/book/mono/978-0-7503-3343-6) 
+# Semidefinite Programming in Quantum Information Science
+
+This is a repository to accompany the book [Semidefinite Programming in Quantum Information Science](https://iopscience.iop.org/book/mono/978-0-7503-3343-6) 
 by Paul Skrzypczyk and Daniel Cavalcanti, published by IOP ebooks.  
 
-Code coming soon!
+A sample chapter (Chapter 3 - Quantum states) can be accessed [here](https://github.com/paulskrzypczyk/SDPBook/blob/main/SDP-book-sample-chapter.pdf)
+
+Code to accompany the book will also be made available over summer 2023. 
